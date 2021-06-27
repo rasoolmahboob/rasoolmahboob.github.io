@@ -9,6 +9,10 @@
 	-& many more!
 */
 /*------------------------------------------------*/
+.d-1 {
+	margin-top: 10%;
+}
+
 @font-face {
     font-family: 'mellatweb-isans';
     src: url('fonts/mellatweb-isans.eot');
